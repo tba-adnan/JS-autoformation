@@ -1,5 +1,4 @@
-# JS-autoformation : 
-JS autoformation : 
+# JavaScript-autoformation : 
 
 - Variables ✅
 - Generating output ✅
