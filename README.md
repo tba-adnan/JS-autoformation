@@ -5,3 +5,4 @@ JS autoformation :
 - Generating output ✅
 - Data Types ✅
 - Operatores ✅
+- Numbers ✅
