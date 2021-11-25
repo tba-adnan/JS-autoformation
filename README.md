@@ -6,3 +6,5 @@ JS autoformation :
 - Data Types ✅
 - Operatores ✅
 - Numbers ✅
+- Mouse Events ✅
+- Keyboard Events ✅
