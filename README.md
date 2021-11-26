@@ -10,4 +10,4 @@
 - Other Events ✔
 - if & else ✔
 - Sorting arrays ✔
-- 
+- Strings ✔ 
