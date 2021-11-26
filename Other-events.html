@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Other Events.</title>
+</head>
+<body>
+<br>
+<!-- onfocus -->
+<script>
+    function highlightInput(elm){
+        elm.style.background = "yellow";
+    }    
+</script>
+<input type="text" onfocus="highlightInput(this)">
+<button type="button">Button</button>
+<br>
+<!-- onchange -->
+<select onchange="alert('You have changed the selection!');">
+    <option>Select</option>
+    <option>Male</option>
+    <option>Female</option>
+</select>
+<br>
+<!-- onload -->
+<body onload="window.alert('Page is loaded successfully!');">
+    <h1>Lorem ipsum dolor sit amet.</h1>
+    <p>onload the page will alert when it finishes loading.</p>
+</body>
+</body>
+</html>

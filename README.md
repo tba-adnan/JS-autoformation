@@ -7,3 +7,5 @@
 - Numbers ✅
 - Mouse Events ✅
 - Keyboard Events ✅
+- Other Events ✅
+- if & else ✅
