@@ -1,13 +1,13 @@
 # JavaScript-autoformation : 
 
-- Variables ✅
-- Generating output ✅
-- Data Types ✅
-- Operatores ✅
-- Numbers ✅
-- Mouse Events ✅
-- Keyboard Events ✅
-- Other Events ✅
-- if & else ✅
-- Sorting arrays ✅
+- Variables ✔
+- Generating output ✔
+- Data Types ✔
+- Operatores ✔
+- Numbers ✔
+- Mouse Events ✔
+- Keyboard Events ✔
+- Other Events ✔
+- if & else ✔
+- Sorting arrays ✔
 - 
