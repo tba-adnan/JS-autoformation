@@ -3,6 +3,7 @@
 - Variables ✔
 - Generating output ✔
 - Data Types ✔
+- Functions ✔
 - Operatores ✔
 - Numbers ✔
 - Mouse Events ✔
