@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JavaScript Loop Through an Object</title>
+</head>
+<body>
+    <script>
+    var person = {
+        name: "Peter",
+        age: 28,
+        gender: "Male"
+    };
+    
+    // Iterating over object properties
+    for(var i in person)  {  
+        document.write(person[i] + "<br>"); // Prints: name, age and gender
+    }
+    </script>
+</body>
+</html>
