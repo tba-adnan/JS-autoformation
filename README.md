@@ -12,3 +12,4 @@
 - if & else ✔
 - Sorting arrays ✔
 - Strings ✔ 
+- Format Json ✔
